@@ -17,7 +17,7 @@ public class findNextLargestLetter {
     }
     public static void main(String args[]){
         char letters[] = {'c','f','j'};
-        char target = 'a';
+        char target = 'f';
         System.out.println(nextGreatestchar(letters, target));
     }
 }
